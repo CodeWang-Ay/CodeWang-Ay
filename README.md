@@ -49,9 +49,9 @@
 
 ## 📑 科研成果
 
-- **2023 · ACL (CCF A) · 第三作者** - *An Effective Deployment of Contrastive Learning in Multi-label Text Classification*
-- **2023 · ICIC (CCF C) · 第一作者** - *Simplifying Aspect-Sentiment Quadruple Prediction with Cartesian Product Operation*
-- **2022 · NLPCC (CCF C) · 第三作者** - *A Fine-Grained Social Bias Measurement Framework for Open-Domain Dialogue Systems*
+- **2023 · ACL (CCF A) · 第三作者** - [*An Effective Deployment of Contrastive Learning in Multi-label Text Classification*](https://aclanthology.org/2023.findings-acl.556/)
+- **2023 · ICIC (CCF C) · 第一作者** - [*Simplifying Aspect-Sentiment Quadruple Prediction with Cartesian Product Operation*](https://link.springer.com/chapter/10.1007/978-981-99-4752-2_58)
+- **2022 · NLPCC (CCF C) · 第三作者** - [*A Fine-Grained Social Bias Measurement Framework for Open-Domain Dialogue Systems*](https://link.springer.com/chapter/10.1007/978-3-031-17189-5_20)
 
 ## 🛠️ 技术栈
 
