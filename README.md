@@ -12,6 +12,8 @@
 
 有企业级多智能体、RAG 检索排序、大模型微调、文本分类和实时语音交互的完整项目经验，关注模型效果，也关注系统的稳定性、并发能力与工程效率。
 
+📝 技术博客：[CSDN](https://blog.csdn.net/qq_45056135)
+
 - 🤖 **Agent & RAG：** LangGraph、Function Calling、多路召回、LLM 粗排/精排、知识库检索与溯源
 - 🧠 **LLM & NLP：** Qwen、Llama、LoRA/SFT、文本分类、情感分析与实体选择
 - 🎧 **Speech AI：** ASR/TTS、2-Pass 实时识别、VAD/PTT、WebSocket 语音交互
@@ -44,6 +46,12 @@
 ### [logger_project](https://github.com/CodeWang-Ay/logger_project)
 
 一个 Python 日志管理项目，用于实践更规范的日志记录与管理方式。
+
+## 📑 科研成果
+
+- **2023 · ACL (CCF A) · 第三作者** - *An Effective Deployment of Contrastive Learning in Multi-label Text Classification*
+- **2023 · ICIC (CCF C) · 第一作者** - *Simplifying Aspect-Sentiment Quadruple Prediction with Cartesian Product Operation*
+- **2022 · NLPCC (CCF C) · 第三作者** - *A Fine-Grained Social Bias Measurement Framework for Open-Domain Dialogue Systems*
 
 ## 🛠️ 技术栈
 
