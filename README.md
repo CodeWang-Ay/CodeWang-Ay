@@ -53,17 +53,6 @@
 
 `Qwen` `Llama` `LangGraph` `LLaMA-Factory` `RAG` `BM25` `Function Calling` `ELECTRA` `RoBERTa` `UIE` `FunASR` `SenseVoice` `MinIO` `Playwright`
 
-## 📊 GitHub 数据
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CodeWang-Ay&show_icons=true&theme=transparent&hide_border=true&locale=cn" alt="CodeWang-AY GitHub 统计" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWang-Ay&layout=compact&theme=transparent&hide_border=true&locale=cn" alt="CodeWang-AY 常用语言" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWang-Ay&theme=github-compact&hide_border=true&area=true" alt="CodeWang-AY 贡献活动图" />
-</div>
-
 ---
 
 <div align="center">
